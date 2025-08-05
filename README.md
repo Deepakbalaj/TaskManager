@@ -29,3 +29,4 @@ This is a cross-platform Todo Task Management app built using React Native (Expo
 ---
 
 This project is a part of a hackathon run by https://www.katomaran.com
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9a030bcf-b7a5-46f7-9241-e2140736faaa" />
